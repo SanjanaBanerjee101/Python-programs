@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+print(len(name))
+print(name.rfind("a"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
